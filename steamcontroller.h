@@ -9,5 +9,8 @@
 #ifndef steamcontroller_h
 #define steamcontroller_h
 
+// VID/PID definitions
+#define STEAM_CONTROLLER_VID 0x28DE
+#define STEAM_CONTROLLER_PID 0x1142
 
 #endif /* steamcontroller_h */
